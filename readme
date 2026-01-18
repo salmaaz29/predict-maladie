@@ -1,0 +1,4 @@
+fichier .env doit etre sous cette format :
+
+THINGSBOARD_URL=http://eu.thingsboard.cloud/api/v1
+THINGSBOARD_TOKEN= VOTRE TOKEN 
